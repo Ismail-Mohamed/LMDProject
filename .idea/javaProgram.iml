@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/Tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/pageController" />
+      <excludePattern pattern="LoginFormController.java " />
+      <excludePattern pattern=" MainDashboardController.java " />
+      <excludePattern pattern=" ManageStaffsController.java " />
+      <excludePattern pattern=" ManageStudentsController.java " />
+      <excludePattern pattern=" ManageUsersController.java " />
+      <excludePattern pattern=" PrintStaffsController.java " />
+      <excludePattern pattern=" PrintStudentController.java " />
+      <excludePattern pattern=" PrintStudents2Controller.java " />
+      <excludePattern pattern=" RegisterStaffController.java " />
+      <excludePattern pattern=" RegisterStudentController.java " />
+      <excludePattern pattern=" ReportViewController.java " />
+      <excludePattern pattern=" StaffManagementController.java " />
+      <excludePattern pattern=" StudentManagementController.java " />
+      <excludePattern pattern=" TransferStudentsController.java " />
+      <excludePattern pattern=" UserAccount2Controller.java " />
+      <excludePattern pattern=" UserAccountController.java " />
+      <excludePattern pattern=" ValidationController.java" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="JUnit4">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="mysql-connector-java-5.1.46" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="jfoenix-9.0.1" level="project" />
+    <orderEntry type="library" name="fontawesomefx-8.9" level="project" />
+    <orderEntry type="library" name="jasper" level="project" />
+  </component>
+</module>

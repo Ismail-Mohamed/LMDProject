@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea43fbee-d156-4ece-adc0-4c8663369d4a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a7tk8itJbgNwUyfVwgk4NIDKnk" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/dbController" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dbController" />
+      <recent name="model" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="view.controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StartProject">
+    <configuration name="StartProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.StartProject" />
+      <module name="javaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dbController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dbController" />
+      <option name="MAIN_CLASS_NAME" value="dbController.StudentControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentControllerTest.AddStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dbController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dbController" />
+      <option name="MAIN_CLASS_NAME" value="dbController.StudentControllerTest" />
+      <option name="METHOD_NAME" value="AddStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentControllerTest.addStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dbController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dbController" />
+      <option name="MAIN_CLASS_NAME" value="dbController.StudentControllerTest" />
+      <option name="METHOD_NAME" value="addStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentControllerTest.searchStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dbController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dbController" />
+      <option name="MAIN_CLASS_NAME" value="dbController.StudentControllerTest" />
+      <option name="METHOD_NAME" value="searchStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea43fbee-d156-4ece-adc0-4c8663369d4a" name="Default Changelist" comment="" />
+      <created>1586098602823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586098602823</updated>
+      <workItem from="1586098613412" duration="7558000" />
+      <workItem from="1586111017600" duration="5661000" />
+      <workItem from="1586169044814" duration="7781000" />
+      <workItem from="1586185664487" duration="398000" />
+      <workItem from="1587936653538" duration="1353000" />
+      <workItem from="1587938150840" duration="1760000" />
+      <workItem from="1587942172690" duration="2267000" />
+      <workItem from="1587984240531" duration="594000" />
+      <workItem from="1588283982754" duration="10103000" />
+      <workItem from="1588429169379" duration="8106000" />
+      <workItem from="1589329231928" duration="1201000" />
+      <workItem from="1589331208560" duration="299000" />
+      <workItem from="1589339100194" duration="5438000" />
+      <workItem from="1589384219225" duration="174000" />
+      <workItem from="1589385748298" duration="602000" />
+      <workItem from="1589408961826" duration="64000" />
+      <workItem from="1589412128368" duration="5149000" />
+      <workItem from="1589420204748" duration="2463000" />
+      <workItem from="1589478138375" duration="498000" />
+      <workItem from="1589481227199" duration="720000" />
+      <workItem from="1589754483629" duration="10509000" />
+      <workItem from="1594813692395" duration="465000" />
+      <workItem from="1595614161528" duration="531000" />
+      <workItem from="1595680196621" duration="20491000" />
+      <workItem from="1595760918933" duration="15451000" />
+      <workItem from="1595840608548" duration="16991000" />
+      <workItem from="1595863438808" duration="8025000" />
+      <workItem from="1595890701034" duration="470000" />
+      <workItem from="1595892225586" duration="888000" />
+      <workItem from="1596015578884" duration="2349000" />
+      <workItem from="1596021906369" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaProgram$StartProject.ic" NAME="StartProject Coverage Results" MODIFIED="1587943826506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+  </component>
+</project>
